@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M Pavithra - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 20px 30px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+
+    h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+      font-size: 20px;
+      margin-top: 20px;
+    }
+
+    p {
+      margin: 6px 0;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    ul {
+      margin: 5px 0 15px 20px;
+    }
+
+    ul li {
+      margin: 5px 0;
+    }
+
+    .contact {
+      text-align: center;
+      font-size: 14px;
+      color: #555;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>M Pavithra</h1>
+    <div class="contact">
+      <p>Email: pavithra@example.com | Phone: +91 98765 43210</p>
+      <p>Location: Tamil Nadu, India</p>
+    </div>
+
+    <h2>Objective</h2>
+    <p>
+      A motivated undergraduate student pursuing a Bachelor’s degree at TJS College of Arts and Science, 
+      with strong coding skills and leadership qualities. 
+      Looking to enhance my technical and interpersonal skills while contributing positively to a team.
+    </p>
+
+    <h2>Education</h2>
+    <p><strong>Bachelor’s Degree</strong> - TJS College of Arts and Science</p>
+    <p>Currently pursuing (Expected Graduation: 2026)</p>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Proficient in coding and problem-solving</li>
+      <li>Good leadership and teamwork abilities</li>
+      <li>Strong listening and communication skills</li>
+    </ul>
+
+    <h2>Strengths</h2>
+    <ul>
+      <li>Quick learner and adaptable</li>
+      <li>Organized and detail-oriented</li>
+      <li>Ability to work under pressure</li>
+    </ul>
+
+    <h2>Activities & Interests</h2>
+    <ul>
+      <li>Participating in coding challenges</li>
+      <li>Team projects and group activities</li>
+      <li>Learning new technologies</li>
+    </ul>
+  </div>
+</body>
+</html>
